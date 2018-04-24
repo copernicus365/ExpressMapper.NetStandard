@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressMapper", "ExpressMapper\ExpressMapper.csproj", "{02066F77-776A-4AF8-868B-D7E91EFC0F54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressMapper.Tests", "ExpressMapper.Tests\ExpressMapper.Tests.csproj", "{CF8EBDA0-BB0B-4C55-9BBA-D4ADC8CDB186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02066F77-776A-4AF8-868B-D7E91EFC0F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02066F77-776A-4AF8-868B-D7E91EFC0F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02066F77-776A-4AF8-868B-D7E91EFC0F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02066F77-776A-4AF8-868B-D7E91EFC0F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8EBDA0-BB0B-4C55-9BBA-D4ADC8CDB186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8EBDA0-BB0B-4C55-9BBA-D4ADC8CDB186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8EBDA0-BB0B-4C55-9BBA-D4ADC8CDB186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8EBDA0-BB0B-4C55-9BBA-D4ADC8CDB186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31EB58D-0121-4509-8682-35779FD20BCF}
+	EndGlobalSection
+EndGlobal
